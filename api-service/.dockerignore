@@ -1,0 +1,4 @@
+../supplysync-worker/target/
+.git/
+.idea/
+uploads/
